@@ -1,0 +1,47 @@
+.head{
+    padding: 10px;
+    padding-left: 15px;
+    font-family: sans-serif;
+    font-size: 37px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.menu{
+    padding: 10px;
+    border-radius: 20px;
+    border-color: black;
+    background-color: rgb(44, 29, 7);
+}
+
+.button{
+    border-radius: 5px;
+    padding: 10px;
+}
+.button2{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.home{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.gallary{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.contact{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.table{
+    background-color: black;
+    padding-top: 20px;
+}
